@@ -1,0 +1,4 @@
+Plaintext
+streamlit
+pypdf
+google-generativeai
